@@ -1,4 +1,4 @@
-# OpenCore--Lenovo-m530-
+# OpenCore-Lenovo-m530
 联想启天m530   amd 3600
 
 注：显卡换免驱的rx560
